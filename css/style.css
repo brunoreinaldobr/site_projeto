@@ -55,4 +55,30 @@ a:hover{
 
 a:link:active, a:visited:active {
     color: black;
-} 
+}
+
+img#logo{
+	width:80px;
+	height:104px;
+	float: right;
+	margin-right:30px;
+	margin-top:-10px;
+}
+
+h3#h3title{
+	color:#367A36;
+	font-size: 20pt;
+}
+
+div#indent{
+	padding-left:45px;
+}
+
+img#perfil{
+	display:inline;
+	float:left;
+	border:0px solid black;
+	border-radius:100px;
+	width:;
+	height:;
+}
