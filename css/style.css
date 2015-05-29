@@ -4,7 +4,8 @@ html{
 	margin-top: 8px;
 	margin-left: 40px;
 	margin-right: 40px;
-	font-family: 'Arvo', serif
+	font-family: 'Arvo', serif;
+	overflow-x:hidden; 
 }
 
 h1{
